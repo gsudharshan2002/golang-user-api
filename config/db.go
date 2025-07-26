@@ -13,7 +13,7 @@ var DB *mongo.Client
 
 func ConnectDB() {
 	
-	clientOptions := options.Client().ApplyURI("mongodb+srv://sudharshan:Sudhar%402002@mymango.hdvc0tg.mongodb.net/userdb?retryWrites=true&w=majority&appName=MyMango&tls=true")
+	clientOptions := options.Client().ApplyURI("mongodb+srv://sudharshan:<addpass>@mymango.hdvc0tg.mongodb.net/userdb?retryWrites=true&w=majority&appName=MyMango&tls=true")
 
 
 	
