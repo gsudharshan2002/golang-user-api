@@ -97,11 +97,12 @@ Content-Type: application/json
 }
 ```
 url for all HTTP request
-
+```
 POST ---->/users
 GET ----> /users
 put ----> /users/id(dynamic)
 DELETE ----> /users/id(dynamic)
+```
 
 
 ---
