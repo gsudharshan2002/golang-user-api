@@ -62,7 +62,7 @@ replace ur string
 ##  Running Unit Tests
 
 ```bash
-go test ./controllers -v
+go test ./controller -v
 ```
 
 
@@ -73,7 +73,7 @@ go test ./controllers -v
 go run main.go
 ```
 
-Visit: [http://localhost:8080](http://localhost:8080)
+Visit: [http://localhost:8080]
 
 we can also change port
 
